@@ -7,9 +7,9 @@ A regular REST API built using Express, Mongoose, JWT and Passport. Features bas
 ### Installation and usage:
 
 `npm install`  
-`npm run dev` - development server with nodemon
-`npm run server` - server without nodemon
-`npm run test` - run tests
+`npm run dev` - development server with nodemon  
+`npm run server` - server without nodemon  
+`npm run test` - run tests  
 `npm run testwatch` - run tests in watch mode
 
 ---
